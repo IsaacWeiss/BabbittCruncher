@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-      cout << "Welcome to babbittCruncher v. 1.0!" << endl;
+      cout << "Welcome to BabbittCruncher v. 1.0!" << endl;
       cout << "---------------------------------" << endl;
       cout << "* This is a console program. After each input, press Enter. *" << endl << endl;
 
